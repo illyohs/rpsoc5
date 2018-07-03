@@ -1,0 +1,6 @@
+[package]
+name = "rpsoc5"
+version = "0.1.0"
+authors = ["Anthony Anderson <anderson@mdhs.info>"]
+
+[dependencies]
